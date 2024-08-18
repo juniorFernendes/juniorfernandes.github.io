@@ -1,0 +1,106 @@
+
+body{
+    
+    text-align: center;
+    background-color: aquamarine; 
+    border: 2px solid;
+    color: blue;
+    margin: 0px;
+    padding: 0px;
+    
+}
+
+img{
+
+    width: 250px;
+    
+}
+
+div{
+    
+    text-align: center;
+    
+}
+
+style{
+    background-color: aquamarine;
+}
+
+.minhaclasse{
+    color: orangered;
+    background-color: blue;
+    text-align: center;
+    font-size: xx-large;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+p{
+  
+    text-align: center;
+    color: blue;
+    font-size: medium;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+
+.p{
+
+    text-align: center;
+
+}
+
+
+.descrição{
+    
+    font-size: large;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+    background-color: azure;
+    margin: 100px;
+    border: 3px;
+    padding: 10px;
+
+    
+}
+
+.minhaclasse2{
+
+    color: blue;
+    background-color: orangered;
+    text-align: center;
+    font-size: x-large;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    
+}
+
+.naveg{
+
+    width: 30px;
+    
+}
+
+.bloco{
+   /* text-align: center; */
+   display: inline-block;
+   width: 600px;
+   margin-right: 0px;
+   padding: 0px;
+   box-sizing: border-box;
+} 
+
+nav :hover{
+    background-color: aqua
+}
+.naveg:hover{
+    width: 40px;
+}
+
+button{
+    color: blueviolet;
+    background-color: aqua;
+    border-radius: 5px;
+    width: 250px;
+    font-size: medium;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+}
